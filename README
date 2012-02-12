@@ -1,0 +1,29 @@
+The Krypton CSharp Compiler
+================================
+This program is a simple Command Line compiler for the C# programming language. Faster and more
+portable than the IDE Compilers.
+
+Extra Features
+================================
+- KCS allows the use of custom C# makefiles 
+
+###################################
+FILE: program.cs
+COMPILER: kcs.exe
+DEST: a.exe
+MAIN
+###################################
+
+- Command Line compiling
+
+- Faster
+
+Legal:
+================================
+
+The author distributes this software without any restrictions.
+You may use this software commercially without any required payement.
+
+Instead of a legal notice here is a blessing:
+	* May you use this software for great good
+	* May you apply the same freedom to your software

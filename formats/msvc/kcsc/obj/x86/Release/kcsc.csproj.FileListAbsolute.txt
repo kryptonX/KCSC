@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\kcsc\kcsc\bin\Release\kcsc.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\kcsc\kcsc\bin\Release\kcsc.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\kcsc\kcsc\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\kcsc\kcsc\obj\x86\Release\kcsc.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\compilers\kcsc\kcsc\obj\x86\Release\kcsc.pdb
