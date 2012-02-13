@@ -18,7 +18,7 @@ MAIN
 
 - Faster
 
-Legal:
+LEGAL:
 ================================
 
 The author distributes this software without any restrictions.
@@ -27,3 +27,7 @@ You may use this software commercially without any required payement.
 Instead of a legal notice here is a blessing:
 	* May you use this software for great good
 	* May you apply the same freedom to your software
+
+BUILDING:
+=================================
+http://github.com/kryptonX/KCSC/wiki/Building
